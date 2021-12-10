@@ -72,7 +72,7 @@ def TextHandler(update: Update, context: CallbackContext) -> None:
 
 
 def main():
-    TOKEN = "5033735688:AAELCA0s62xvfNnIDPM-bkeKIO2N0e1LPLE"
+    TOKEN = "5033735688:AAF2Go2mvpYMsLK40Gd1aAywndp70yJK_ZU"
     APP_NAME = 'https://urlshotenerbot.herokuapp.com/'
 
     updater = Updater(TOKEN, use_context=True)
